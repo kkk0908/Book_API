@@ -1,0 +1,24 @@
+{
+  "name": "movies-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^1.19.3",
+    "pg": "^7.12.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/mountblue/cohort-10-js-4.16-4.17/books-api-satish.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
